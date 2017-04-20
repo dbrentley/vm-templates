@@ -1,6 +1,6 @@
 {
     "template": {
-        "name": "debian-8.4.0", 
+        "name": "debian-8.4.0-uefi", 
         "author": "Wojciech Kloska <shangteus@ixsystems.com>", 
         "description": "Debian 8.4.0 linux VM image", 
         "created_at": {
